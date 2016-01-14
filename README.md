@@ -8,6 +8,3 @@ there are many topics in js file, you many need to understand what the means of 
 if you can understand all of them , you can handle most of js job.
 
 code is coming soon...
-
-
-haha...
